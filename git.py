@@ -19,5 +19,6 @@ class trabajo:
 trabajo_objeto = trabajo(int(input("Ingrese el numero 1: ")), int(input("Ingrese el numero 2: ")))
 print(f"El resultado de la suma es: {trabajo_objeto.funcion_sumar()}")
 print(f"El resultado de la resta es: {trabajo_objeto.funcion_restar()}")
+#hola
 print(f"El resultado de la multiplicacion es: {trabajo_objeto.funcion_multiplicar()}")
 print(f"El resultado su division es: {trabajo_objeto.funcion_dividir()}")
